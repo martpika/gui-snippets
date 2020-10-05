@@ -1,4 +1,5 @@
 class CaesarCipher:
+    """ Program to encrypt and decypt stuffs."""
     def __init__(self, shift):
         """
         :param shift: values on how many alphabet characters be shifted
